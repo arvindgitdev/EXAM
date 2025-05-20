@@ -36,7 +36,7 @@ class _TeacherMonitoringPageState extends State<TeacherMonitoringPage> {
   String _searchQuery = '';
 
   // Sorting option
-  String _sortBy = 'name'; // Options: 'name', 'status', 'flagCount'
+  final String _sortBy = 'name'; // Options: 'name', 'status', 'flagCount'
 
   @override
   void initState() {
@@ -1348,7 +1348,6 @@ class StudentConnection {
     dispose();
     initialize();
   }
-
   void dispose() {
     _connectionCheckTimer?.cancel();
     _peerConnection?.close();
