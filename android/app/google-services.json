@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558909977932",
+    "project_id": "examnow-ed2f5",
+    "storage_bucket": "examnow-ed2f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558909977932:android:0338d038843bdfa9ff4be9",
+        "android_client_info": {
+          "package_name": "com.example.examnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB989qBtj21C-fGGnRrlYCh06Yei68xN3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
